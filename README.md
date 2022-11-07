@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Eanam Hossain
+### Hi 👋, I'm Eanam Hossain
 #### A passionate about Backend developer using Django.
 ![A passionate about Backend developer using Django.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
