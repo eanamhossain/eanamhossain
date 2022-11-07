@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Eanam Hossain</h1>
-<h3 align="center">A passionate about Backend developer using Django.</h3>
+### Hi there 👋, Hi 👋, I'm Eanam Hossain
+#### A passionate about Backend developer using Django.
+![A passionate about Backend developer using Django.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on **Bookstore Project**
+I made this project just for fun, it allows you to create nice and straightforward GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🌱 I’m currently learning **python with Django**
+Skills:  HTML / CSS /DJANGO /PYTHON / 
 
-- 📫 How to reach me **eanam.info@gmail.com**
+- 🔭 I’m currently working on 🔭 I’m currently working on Bookstore Project 
+- 🌱 I’m currently learning  python with Django 
+- 📫 How to reach me: eanam.info@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.behance.net/eanamhossain96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="eanamhossain96" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eanamhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/eanamhossain96)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eanamhossain&show_icons=true&locale=en&layout=compact" alt="eanamhossain" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=eanamhossain)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eanamhossain&" alt="eanamhossain" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eanamhossain)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eanamhossain&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eanamhossain)  
 
