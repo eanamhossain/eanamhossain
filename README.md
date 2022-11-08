@@ -1,4 +1,4 @@
-![thoughtworks-gif_dribbble](https://user-images.githubusercontent.com/53260058/200557467-74558a7c-fd5e-4ec2-a34c-27edd2efb9a9.gif))
+![thoughtworks-gif_dribbble](img src='https://user-images.githubusercontent.com/53260058/200557467-74558a7c-fd5e-4ec2-a34c-27edd2efb9a9.gif'height='200' ))
 ### Hi 👋, I'm Eanam Hossain
 #### A passionate about Backend developer using Django.
 ![A passionate about Backend developer using Django.]
@@ -12,7 +12,7 @@ Skills:  HTML / CSS /DJANGO /PYTHON /
 - 📫 How to reach me: eanam.info@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eanamhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/eanamhossain96)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' weight='400'>](https://github.com/eanamhossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/eanamhossain96)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eanamhossain)](https://github.com/ryo-ma/github-profile-trophy)
 
