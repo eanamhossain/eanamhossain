@@ -1,4 +1,4 @@
-![thoughtworks-gif_dribbble](img src='https://user-images.githubusercontent.com/53260058/200557467-74558a7c-fd5e-4ec2-a34c-27edd2efb9a9.gif'height='200' ))
+![thoughtworks-gif_dribbble](img src='https://user-images.githubusercontent.com/53260058/200557467-74558a7c-fd5e-4ec2-a34c-27edd2efb9a9.gif))
 ### Hi 👋, I'm Eanam Hossain
 #### A passionate about Backend developer using Django.
 ![A passionate about Backend developer using Django.]
