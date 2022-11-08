@@ -1,4 +1,4 @@
-![thoughtworks-gif_dribbble](img src='https://user-images.githubusercontent.com/53260058/200557467-74558a7c-fd5e-4ec2-a34c-27edd2efb9a9.gif))
+![thoughtworks-gif_dribbble](https://user-images.githubusercontent.com/53260058/200557467-74558a7c-fd5e-4ec2-a34c-27edd2efb9a9.gif)
 ### Hi 👋, I'm Eanam Hossain
 #### A passionate about Backend developer using Django.
 ![A passionate about Backend developer using Django.]
@@ -46,6 +46,19 @@ Skills:  HTML / CSS /DJANGO /PYTHON /
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eanamhossaina&show_icons=true&theme=radical)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+<div class=”gallery”>
+  <figure class=”gallery__item gallery__item--1">
+    <img src=" https://www.figma.com/proto/7CnGnO8RNPdEU2guk0h0Xc/Corporate-Website?node-id=6%3A121 " class="gallery__img" alt="Image 1">
+  </figure>
+  <figure class="gallery__item gallery__item--2">
+    <img src="img/image-2.jpg" class="gallery__img" alt="Image 2">
+  </figure>
+  <figure class="gallery__item gallery__item--3">
+    <img src="img/image-3.jpg" class="gallery__img" alt="Image 3">
+  </figure>
+</div>
 
 
 
