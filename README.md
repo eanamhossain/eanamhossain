@@ -1,6 +1,7 @@
+(![thoughtworks-gif_dribbble](https://user-images.githubusercontent.com/53260058/200557467-74558a7c-fd5e-4ec2-a34c-27edd2efb9a9.gif))
 ### Hi 👋, I'm Eanam Hossain
 #### A passionate about Backend developer using Django.
-![A passionate about Backend developer using Django.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A passionate about Backend developer using Django.]
 
 I made this project just for fun, it allows you to create nice and straightforward GitHub Readme files that you can copy/paste and use in your profile.
 
