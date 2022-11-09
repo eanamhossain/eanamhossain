@@ -26,7 +26,7 @@ I’m a fresh graduate student and passionate to become a Software Engineer. Tha
 
  <p> Corporate Website : https://www.figma.com/file/LbsLfjSx1Z1Cj95YZyMQ6h/Eanam-%3A-Corporate-Website?node-id=0%3A1 </p>
  <p> Online Education landing page: https://www.figma.com/file/HAsv6IxqcaPT1hrsJc4wZM/epathshala?node-id=0%3A1 </p>
- <p> E-commerce Admin Dashboard : https://boring-swartz-34b0ba.netlify.app/https://www.figma.com/file/jXcrcIa706pg93iJLOiQIO/Task-1-%3A-Dashboard?node-id=1%3A2 </p>
+ <p> E-commerce Admin Dashboard : https://www.figma.com/file/jXcrcIa706pg93iJLOiQIO/Task-1-%3A-Dashboard?node-id=1%3A2 </p>
  
  ### Backend Slills & Experience
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
