@@ -3,7 +3,7 @@
 
 # 💫 Eanam Hossain:
 
-I’m a fresh graduate student and passionate to become a Software Engineer. That's why I tried to learn programming and UI/UX design online or offline on various platform.<br>
+I’m a fresh graduate student and passionate to become a Django Developer. That's why I tried to learn programming and UI/UX design online or offline on various platform.<br>
 <br>
 🔭 I’m currently working on BookStore Project.<br>🌱 I’m currently learning Python With Django<br>💬 Contact me: eanam.info@gmail.com<br>⚡ Fun fact: “Facts don't care about your feelings.”― Ben Shapiro
 
