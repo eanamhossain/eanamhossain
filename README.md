@@ -1,3 +1,6 @@
+<img src="https://i.ibb.co/GFF0jH7/What-Is-Pair-Programming.png" alt="What-Is-Pair-Programming" border="0" ></a>
+
+
 # 💫 Eanam Hossain:
 
 I’m a fresh graduate student and passionate to become a Software Engineer. That's why I tried to learn programming and UI/UX design online or offline on various platform.<br>
@@ -25,8 +28,10 @@ I’m a fresh graduate student and passionate to become a Software Engineer. Tha
  <p> Online Education landing page: https://www.figma.com/file/HAsv6IxqcaPT1hrsJc4wZM/epathshala?node-id=0%3A1 </p>
  <p> E-commerce Admin Dashboard : https://boring-swartz-34b0ba.netlify.app/ </p>
  
+ ### Backend Slills & Experience
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eanamhossain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eanamhossain&theme=blue-green&hide_border=false)<br/>
@@ -38,8 +43,8 @@ I’m a fresh graduate student and passionate to become a Software Engineer. Tha
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Random Meme
+<img src="https://random-memer.herokuapp.com/" width="240px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eanamhossain&icon=0&color=0)](https://visitcount.itsvg.in)
