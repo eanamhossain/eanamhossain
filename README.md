@@ -21,9 +21,10 @@ I’m a fresh graduate student and passionate to become a Software Engineer. Tha
  
  #### Project Link:
 
- <p>Restaurant Website : https://silly-hermann-a19358.netlify.app/ </p>
- <p>Blog Website : https://infallible-knuth-1ab7d7.netlify.app/ </p>
- <p>Travel Website : https://boring-swartz-34b0ba.netlify.app/ </p>
+ <p> Corporate Website : https://www.figma.com/file/LbsLfjSx1Z1Cj95YZyMQ6h/Eanam-%3A-Corporate-Website?node-id=0%3A1 </p>
+ <p> Online Education landing page: https://www.figma.com/file/HAsv6IxqcaPT1hrsJc4wZM/epathshala?node-id=0%3A1 </p>
+ <p> E-commerce Admin Dashboard : https://boring-swartz-34b0ba.netlify.app/ </p>
+ 
  
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 # 📊 GitHub Stats:
