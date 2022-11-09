@@ -40,7 +40,7 @@ I’m a fresh graduate student and passionate to become a Software Engineer. Tha
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eanamhossain&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Meme
