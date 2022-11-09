@@ -33,8 +33,8 @@ I’m a fresh graduate student and passionate to become a Software Engineer. Tha
  
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eanamhossain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eanamhossain&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=eanamhossain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=eanamhossain&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eanamhossain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
