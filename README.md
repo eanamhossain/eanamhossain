@@ -29,8 +29,13 @@ I’m a fresh graduate student and passionate to become a Software Engineer. Tha
  <p> E-commerce Admin Dashboard : https://www.figma.com/file/jXcrcIa706pg93iJLOiQIO/Task-1-%3A-Dashboard?node-id=1%3A2 </p>
  
  ### Backend Slills & Experience
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br><p>  </p>
+ <p>Newspaper_app : https://github.com/eanamhossain/Newspaper_app.git </p>
+ <p> Bookstore_project : https://github.com/eanamhossain/Bookstore_project.git </p>
+ <p> ToDo_app : https://github.com/eanamhossain/ToDo_app.git </p>
+ <p> postgresq : https://github.com/eanamhossain/postgresql.git </p>
+ <p> Message_Board_app : https://github.com/eanamhossain/Message_Board_app.git </p>
+ <p> Eanam_portfolio : https://github.com/eanamhossain/Eanam_portfolio.git </p>
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eanamhossain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=eanamhossain&theme=blue-green&hide_border=false)<br>
