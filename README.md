@@ -3,7 +3,7 @@
 
 # 💫 Eanam Hossain:
 
-I’m a fresh graduate student and passionate to become a Django Developer. That's why I tried to learn programming and UI/UX design online or offline on various platform.<br>
+I’m a Hi, I'm Eanam Hossain. I'm a Software Engineer with in-depth experience in UI/UX design. In a nutshell, I create websites that help organizations address business challenges and meet their needs. I manage everything from website navigation and layout to a company's web hosting and security architecture. My expertise lies within front-end websites, and the main languages in my tech stack are HTML/CSS and JavaScript or Python. I’m a lifelong learner (currently taking a class on Python with Django!) and love to read Psychology, self-help, & Islamic book. Thank You.<br>
 <br>
 🔭 I’m currently working on BookStore Project.<br>🌱 I’m currently learning Python With Django<br>💬 Contact me: eanam.info@gmail.com<br>⚡ Fun fact: “Facts don't care about your feelings.”― Ben Shapiro
 
