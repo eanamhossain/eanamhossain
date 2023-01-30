@@ -30,7 +30,9 @@ Hi, I'm Eanam Hossain. I'm a Software Engineer with experience in UI/UX design. 
  
  ### Backend Slills & Experience
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br><p>  </p>
+ <p> Blog Application : https://github.com/eanamhossain/Blog-Application </p>
  <p> Url_Shorter : https://github.com/eanamhossain/Url_Shorter.git  </p>
+ <p> Coffee_Machine_OOPs_Project : https://github.com/eanamhossain/Coffee_Machine_OOPs_Project </p>
  <p> ATM_System_oops_project : https://github.com/eanamhossain/ATM_System_oops_project.git </p>
  <p>Newspaper_app : https://github.com/eanamhossain/Newspaper_app.git </p>
  <p> Bookstore_project : https://github.com/eanamhossain/Bookstore_project.git </p>
