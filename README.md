@@ -2,6 +2,22 @@
 
 
 # 💫 Eanam Hossain:
+Hi, I'm Eanam Hossain! I help businesses convert more visitors into customers through data-driven landing page optimization. My expertise lies in creating high-converting pages and implementing comprehensive analytics solutions.<br>
+
+🎯 What I do:<br>
+- Design conversion-focused landing pages<br>
+- Implement GA4 & GTM tracking<br>
+- Analyze user behavior with heatmaps<br>
+- Optimize based on real data<br>
+
+🌱 I'm currently learning advanced CRO techniques<br>
+💼 Working on: Converting landing page projects<br>
+📚 Love reading: Psychology, marketing & self-help books<br>
+📊 Tech stack: Analytics (GA4, GTM), Microsoft Clarity, A/B testing tools<br>
+
+📫 Let's connect: eanam.info@gmail.com<br>
+
+⚡ Fun fact: "Data tells stories that designs can't."<br>
 
 Hi, I'm Eanam Hossain. I'm a Software Engineer with experience in UI/UX design. My expertise is within front-end websites, and the main languages in my tech stack are HTML/CSS and JavaScript or Python. I’m a lifelong learner (currently taking a class on Python with Django!) and love to read Psychology, self-help, & Islamic book. Thank You.<br>
 <br>
