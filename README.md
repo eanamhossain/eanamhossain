@@ -19,11 +19,6 @@ Hi, I'm Eanam Hossain! I help businesses convert more visitors into customers th
 
 ⚡ Fun fact: "Data tells stories that designs can't."<br>
 
-Hi, I'm Eanam Hossain. I'm a Software Engineer with experience in UI/UX design. My expertise is within front-end websites, and the main languages in my tech stack are HTML/CSS and JavaScript or Python. I’m a lifelong learner (currently taking a class on Python with Django!) and love to read Psychology, self-help, & Islamic book. Thank You.<br>
-<br>
-🔭 I’m currently working on the saas Project.<br>🌱 I’m currently learning Python With Django<br>💬 Contact me: eanam.info@gmail.com<br>⚡ Fun fact: “Facts don't care about your feelings.”― Ben Shapiro
-
-
 # 💻 Tech Stack:
 
 ### Frontend Skills & Experience
